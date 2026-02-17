@@ -1,0 +1,1 @@
+This repo is used to pull images from Docker Hub and publish to Github Container Registry.
